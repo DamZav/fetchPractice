@@ -1,0 +1,21 @@
+#pokemon-info {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#pokemon-info img {
+    max-width: 150px;
+    margin: 10px 0;
+}
+
+#pokemon-info h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#pokemon-info p {
+    margin: 5px 0;
+}
